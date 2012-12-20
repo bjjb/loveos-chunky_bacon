@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'loveos/chunky_bacon'
+LoveOS::ChunkyBacon::CLI.start
